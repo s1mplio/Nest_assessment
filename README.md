@@ -28,7 +28,7 @@ Follow these steps to get the application up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/s1mplio/Nest_assessment.git
 cd nest-assessment
 ```
 
